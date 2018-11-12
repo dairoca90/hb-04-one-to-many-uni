@@ -1,0 +1,1 @@
+{"Encabezado":{"InstitucionId":"CCB","SolicitudId":"999099151757982792","TipoProceso":"TP001","FolioCliente":"123"},"CURP":"OIPD891010HMCRRG00"}
